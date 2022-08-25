@@ -79,12 +79,12 @@ public class profileActivity extends AppCompatActivity {
             }
         });
 
-       /* deleteAcc.setOnClickListener(new View.OnClickListener() {
+       deleteAcc.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(getApplicationContext(),));
+                deleteAccount();
             }
-        });*/
+        });
 
         logoutAcc.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -95,6 +95,28 @@ public class profileActivity extends AppCompatActivity {
         });
 
 
+    }
+    
+    private void deleteAccount() {
+        Log.d(TAG, "En train d'effacer le profil");
+        FirebaseAuth firebaseAuth = FirebaseAuth.getInstance();
+        final FirebaseUser currentUser = firebaseAuth.getCurrentUser();
+
+        currentUser.delete().addOnCompleteListener(new OnCompleteListener<Void>() {
+            @Override
+            public void onComplete(@NonNull Task<Void> task) {
+                if (task.isSuccessful()) {
+                    Log.d(TAG,"OK! Works fine!");
+                    startActivity(new Intent(getApplicationContext(), SignupActivity.class));
+                    finish();
+                }
+            }
+        }).addOnFailureListener(new OnFailureListener() {
+            @Override
+            public void onFailure(@NonNull Exception e) {
+                Log.e(TAG,"Une erreur s'est produite :", e);
+            }
+        });
     }
 
     private void showUserProfile(FirebaseUser firebaseUser) {
