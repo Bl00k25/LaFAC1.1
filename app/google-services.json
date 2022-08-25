@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "753687150216",
+    "project_id": "lafac-6fe1f",
+    "storage_bucket": "lafac-6fe1f.appspot.com",
+    "firebase_url": "https://lafac-6fe1f-default-rtdb.europe-west1.firebasedatabase.app/"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753687150216:android:e57e3dc238747e612fa93d",
+        "android_client_info": {
+          "package_name": "fr.bl00k.lafac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753687150216-nnktpuq1k1opj4ofnel7267bgcslc3q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9CbJyqhweioxPoWk9mxPKywxjLjVARNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753687150216-nnktpuq1k1opj4ofnel7267bgcslc3q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

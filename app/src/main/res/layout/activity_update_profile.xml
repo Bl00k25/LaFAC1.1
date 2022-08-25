@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/LightGrey">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:layout_margin="15dp"
+        android:background="@color/White">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/updateProfileHead"
+            android:layout_marginTop="30dp"
+            android:text="Vous pouvez maintenant changer de nom"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Headline"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/profileNameUpdate"
+            android:layout_below="@id/updateProfileHead"
+            android:text="Nom :"
+            android:textSize="20dp"
+            android:layout_marginTop="30dp"
+            android:padding="6dp"
+            android:textColor="@color/fac"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editProfileName"
+            android:layout_below="@id/updateProfileHead"
+            android:inputType="textPersonName"
+            android:textSize="20dp"
+            android:text="Entrer votre nom"
+            android:padding="6dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/editProfileName"
+            android:layout_marginTop="30dp"
+            android:textColor="@color/White"
+            android:text="Upload photo de profil"
+            android:id="@+id/uploadPicButton"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/uploadPicButton"
+            android:layout_marginTop="30dp"
+            android:backgroundTint="@color/DarkBlue"
+            android:textColor="@color/White"
+            android:id="@+id/editProfileNameButton"
+            android:text="Changer le nom"/>
+
+        <ProgressBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/Widget.AppCompat.ProgressBar"
+            android:layout_centerVertical="true"
+            android:elevation="18dp"
+            android:visibility="gone"/>
+
+
+    </RelativeLayout>
+
+</ScrollView>

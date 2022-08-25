@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/drawable/add_icon.xml" value="0.173" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/drawable/add_image_icon.xml" value="0.173" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/drawable/chat_bubble_message_received.xml" value="0.173" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/drawable/chat_bubble_message_sent.xml" value="0.173" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/drawable/image_border.xml" value="0.173" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/drawable/image_border_sent_message.xml" value="0.173" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/drawable/logout_button.xml" value="0.173" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/drawable/logout_person.xml" value="0.173" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/drawable/send_image_icon.xml" value="0.173" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/activity_chat.xml" value="0.37442218798151" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/activity_delete_profile.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/activity_splash.xml" value="0.2351851851851852" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/activity_splash2.xml" value="0.128" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/activity_update_profile.xml" value="0.264" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/activity_update_profile_pic.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/activity_upload_profile_pic.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/cafetaria_activity.xml" value="0.1265625" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/class_activity.xml" value="0.1265625" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/fragment_add_friend.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/fragment_home.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/fragment_profile.xml" value="0.2734375" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/friends_card_view.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/item_message_received.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/item_message_sent.xml" value="0.2734375" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/library_activity.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/login_activity.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/main_activity.xml" value="0.264" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/matlab.xml" value="0.1265625" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/matlab_layout.xml" value="0.2734375" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/messenger.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/messenger_activity.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/messenger_layout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/profile_activity.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/programmation.xml" value="0.1265625" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/programmation_layout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/sgbd.xml" value="0.536" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/sgbdr_layout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/signup_activity.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/statistiques.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/statistiques_layout.xml" value="0.2734375" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/layout/toolbar_main.xml" value="0.205859375" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/menu/common_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/menu/import_files.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Blook/AndroidStudioProjects/LaFAC/app/src/main/res/menu/logout.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
